@@ -2,7 +2,7 @@
 const images = [
     './img/boston.jpg',
     './img/ohlone.jpg',
-    './img/tandon.jpg
+    './img/tandon.jpg'
 ];
 
 const index = Math.floor(Math.random() * images.length);
